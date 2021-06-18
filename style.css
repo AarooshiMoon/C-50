@@ -1,0 +1,31 @@
+h1{
+    color: teal;
+}
+
+
+.header{
+
+    background-color: violet;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-center;
+}
+
+p, h2{
+    text-align: center;
+    color: yellow;
+}
+
+body{
+    background-image: url('bg.jpg');
+}
